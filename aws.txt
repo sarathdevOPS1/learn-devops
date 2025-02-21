@@ -1,2 +1,5 @@
 in aws lots of services available.
 they are ec2,route53.
+networking
+ami
+vpc and lots of offering give it to all.
